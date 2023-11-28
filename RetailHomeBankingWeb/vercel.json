@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/RetailHomeBankingWeb/:path*", "destination": "/RetailHomeBankingWeb/:path*.html" }
-  ]
-}
