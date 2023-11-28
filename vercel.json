@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/RetailHomeBankingWeb/:path*", "destination": "/RetailHomeBankingWeb/:path*.html" }
+    {
+      "source": "/init.do@a=b@AcessBanking=b",
+      "destination": "/init.do@a=b@AcessBanking=b.html"
+    }
   ]
 }
